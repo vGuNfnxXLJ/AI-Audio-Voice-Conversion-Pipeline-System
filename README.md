@@ -20,19 +20,13 @@ This project builds a complete AI audio processing pipeline system that allows u
 
 ## System Pipeline
 
-Input YouTube URL
-↓  
-Audio Download Module  
-↓  
-Source Separation (Spleeter)  
-↓  
-Vocal Extraction  
-↓  
-Voice Conversion (so-vits-svc)  
-↓  
-Audio Re-synthesis  
-↓  
-Final Output Audio  
+- Input YouTube URL  
+- Audio Download Module  
+- Source Separation (Spleeter)  
+- Vocal Extraction  
+- Voice Conversion (so-vits-svc)  
+- Audio Re-synthesis   
+- Final Output Audio  
 
 ---
 
