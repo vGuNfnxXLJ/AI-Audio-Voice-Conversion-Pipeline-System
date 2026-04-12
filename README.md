@@ -165,6 +165,7 @@ python SVS_start.py
 5. Merge tracks  
 6. Export or playback result  
 
+![image](https://github.com/vGuNfnxXLJ/AI-Audio-Voice-Conversion-Pipeline-System/blob/main/SoftVOC_UI.PNG)
 ---
 
 ## External Acknowledgements
